@@ -72,8 +72,6 @@
 
 ## The journey to Filecoin (ELI5)
 
-
-
 |                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                      |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Chapter 1`   <br>[双花问题](https://youtu.be/5e0dykuQBVs) <br>[Double Spending Problem](https://docs.google.com/presentation/d/1joocmKrY5P5SRX0-T46GJpR9inXcYF1M3gNA9tjy9Yk/edit?usp=sharing)                                                      | `Chapter 2`  <br>[拜占庭将军问题](https://youtu.be/fB9InX8Zafw) <br>[Byzantine Generals Problem](https://docs.google.com/presentation/d/1nsGnJP_1YdxMIwq784mNhWp7ceSZOkS3PUqQscx_pgc/edit?usp=sharing)                                    | `Chapter 3`   <br>[比特币的学术谱系](https://youtu.be/qU0byiknqhU) <br>[Bitcoin's Academic Pedigree](https://docs.google.com/presentation/d/12KAuI33BlPU2ZPprvhjt90L1UU20pOq0fmRGJDQtbLs/edit?usp=sharing)                                   |
@@ -85,125 +83,18 @@
 | `Chapter 19`   <br>[Filecoin基金会](https://youtu.be/TdfXPFTe7SM) <br> [Filecoin Foundation](https://docs.google.com/presentation/d/102UbwGhp5i1R4IR_3oO-HzEB67UlAm8Nrk3_UAZ-MKw/edit?usp=sharing) | `Chapter 20`   <br>[Filecoin总体规划和2023年的Filecoin](https://youtu.be/vVKUup_o5J8) <br> [Filecoin master plan & Filecoin in 2023](https://docs.google.com/presentation/d/1k2oy16j85N4bTtnBJUjfnY7yaQ-zmcO7ofwgJFFHIao/edit?usp=sharing)
 
 ## Coding with Filecoin
-Chapter 1
-解锁通往Web3.0之门（1)
-https://www.bilibili.com/video/BV1jB4y127c4
-https://guidetofilecoin.xyz/#
 
-Chapter 2
-解锁通往Web3.0之门（2）
-https://www.bilibili.com/video/BV1MY411c7SC
-https://guidetofilecoin.xyz/#
 
-Chapter 3
-解锁通往Web3.0之门（3）
-https://www.bilibili.com/video/BV1YY4y1r7vT
-https://guidetofilecoin.xyz/#
-
-Chapter 4
-IPFS&Filecoin简介与技术基础(1)
-https://www.bilibili.com/video/BV1jv4y1N7cP
-https://guidetofilecoin.xyz/#
-
-Chapter 5
-IPFS&Filecoin简介与技术基础(2)
-https://www.bilibili.com/video/BV1vB4y1y7dF
-https://guidetofilecoin.xyz/#
-
-Chapter 6
-Filecoin核心概念与底层架构（1）
-https://www.bilibili.com/video/BV18v4y1A7FK
-https://guidetofilecoin.xyz/#
-
-Chapter 7
-Filecoin核心概念与底层架构（2)
-https://www.bilibili.com/video/BV1rB4y1972v
-https://guidetofilecoin.xyz/#
-
-Chapter 8
-Filecoin核心概念与底层架构（3）
-https://www.bilibili.com/video/BV1TU4y1U7fa
-https://guidetofilecoin.xyz/#
-Chapter 9
-Filecoin&IPFS开发工具支持（1）
-https://www.bilibili.com/video/BV1UA4y1o7vi
-https://guidetofilecoin.xyz/#
-
-Chapter 10
-Filecoin&IPFS开发工具支持（2）
-https://www.bilibili.com/video/BV1UA4y1o7vi
-https://guidetofilecoin.xyz/#
-
-Chapter 11
-如何基于Lotus节点开发（1）
-https://www.bilibili.com/video/BV1UF41157vs
-https://guidetofilecoin.xyz/#
-
-Chapter 12
-如何基于Lotus节点开发（2）
-https://www.bilibili.com/video/BV11A4y1d72B
-https://guidetofilecoin.xyz/#
-
-Chapter 13
-如何基于Lotus节点开发（3）
-https://www.bilibili.com/video/BV1tF41157Xb
-https://guidetofilecoin.xyz/#
-
-Chapter 14
-如何基于Lotus节点开发（4）
-https://www.bilibili.com/video/BV1QF41157AH
-https://guidetofilecoin.xyz/#
-
-Chapter 15
-通过NFT.storage存储你的NFT和数据（1）
-https://www.bilibili.com/video/BV1xr4y1V7XY
-https://guidetofilecoin.xyz/#
-
-Chapter 16
-通过NFT.storage存储你的NFT和数据（2）
-https://www.bilibili.com/video/BV1gY4y147MM
-https://guidetofilecoin.xyz/#
-
-Chapter 17
-如何为dApp提供分布式存储（1）
-https://www.bilibili.com/video/BV1rF411F7eP
-https://guidetofilecoin.xyz/#
-
-Chapter 18
-如何为dApp提供分布式存储（2）
-https://www.bilibili.com/video/BV1jT41157pM
-https://guidetofilecoin.xyz/#
-
-Chapter 19
-如何在Filecoin上存储大规模数据?
-https://guidetofilecoin.xyz/#
-https://guidetofilecoin.xyz/#
-
-Chapter 20
-如何使用Moralis以及IPFS快速开发去中心化应用（1）
-https://www.bilibili.com/video/BV1yT41137hd
-https://guidetofilecoin.xyz/#
-
-Chapter 21
-如何使用Moralis以及IPFS快速开发去中心化应用（2）
-https://www.bilibili.com/video/BV1VB4y1B7Fn
-https://guidetofilecoin.xyz/#
-
-Chapter 22
-如何使用Moralis以及IPFS快速开发去中心化应用（3）
-https://www.bilibili.com/video/BV1Df4y1o74k
-https://guidetofilecoin.xyz/#
-
-Chapter 23
-Web3.0 dApp项目架构（EVM兼容）（1）
-https://www.bilibili.com/video/BV1c94y1d7VQ
-https://guidetofilecoin.xyz/#
-
-Chapter 24
-Web3.0 dApp项目架构（EVM兼容）（2）
-https://www.bilibili.com/video/BV1kL4y1w7LK
-https://guidetofilecoin.xyz/#
-
+|                                                                                                  |                                                                                                  |                                                                                                  |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| `Chapter 1`   <br>[解锁通往Web3.0之门（1)](https://www.bilibili.com/video/BV1jB4y127c4)                 | `Chapter 2`  <br>[解锁通往Web3.0之门（2）](https://www.bilibili.com/video/BV1MY411c7SC)                  | `Chapter 3`   <br>[解锁通往Web3.0之门（3）](https://www.bilibili.com/video/BV1YY4y1r7vT)                 |
+| `Chapter 4`   <br>[IPFS&Filecoin简介与技术基础(1)](https://www.bilibili.com/video/BV1jv4y1N7cP)         | `Chapter 5` <br>[IPFS&Filecoin简介与技术基础(2)](https://www.bilibili.com/video/BV1vB4y1y7dF)           | `Chapter 6` <br>[Filecoin核心概念与底层架构（1）](https://www.bilibili.com/video/BV18v4y1A7FK)              |
+| `Chapter 7`   <br>[Filecoin核心概念与底层架构（2)](https://www.bilibili.com/video/BV1rB4y1972v)            | `Chapter 8`   <br>[Filecoin核心概念与底层架构（3）](https://www.bilibili.com/video/BV1TU4y1U7fa)            | `Chapter 9`   <br>[Filecoin&IPFS开发工具支持（1）](https://www.bilibili.com/video/BV1UA4y1o7vi)          |
+| `Chapter 10`   <br>[Filecoin&IPFS开发工具支持（2）](https://www.bilibili.com/video/BV1UA4y1o7vi)         | `Chapter 11`   <br> [如何基于Lotus节点开发（1）](https://www.bilibili.com/video/BV1UF41157vs)              | `Chapter 12`   <br>[如何基于Lotus节点开发（2）](https://www.bilibili.com/video/BV11A4y1d72B)               
+| `Chapter 13`   <br>[如何基于Lotus节点开发（3）](https://www.bilibili.com/video/BV1tF41157Xb)               | `Chapter 14`   <br> [如何基于Lotus节点开发（4）](https://www.bilibili.com/video/BV1QF41157AH)              | `Chapter 15`   <br> [通过NFT.storage存储你的NFT和数据（1）](https://www.bilibili.com/video/BV1xr4y1V7XY)    |
+| `Chapter 16`   <br>[通过NFT.storage存储你的NFT和数据（2）](https://www.bilibili.com/video/BV1gY4y147MM)     | `Chapter 17`   <br>[如何为dApp提供分布式存储（1）]( https://www.bilibili.com/video/BV1rF411F7eP)             | `Chapter 18`   <br>[如何为dApp提供分布式存储（2）](https://www.bilibili.com/video/BV1jT41157pM)              | 
+| `Chapter 19`   <br>[如何在Filecoin上存储大规模数据?](https://www.bilibili.com/video/BV1QL4y1A7NT)           | `Chapter 20`   <br>[如何使用Moralis以及IPFS快速开发去中心化应用（1）](https://www.bilibili.com/video/BV1yT41137hd) | `Chapter 21`   <br>[如何使用Moralis以及IPFS快速开发去中心化应用（2）](https://www.bilibili.com/video/BV1VB4y1B7Fn) |
+| `Chapter 22`   <br>[如何使用Moralis以及IPFS快速开发去中心化应用（3）](https://www.bilibili.com/video/BV1Df4y1o74k) | `Chapter 23`   <br>[Web3.0 dApp项目架构（EVM兼容）（1）](https://www.bilibili.com/video/BV1c94y1d7VQ)                   | `Chapter 24`   <br>[Web3.0 dApp项目架构（EVM兼容）（2）](https://www.bilibili.com/video/BV1kL4y1w7LK) |
 
 
 
