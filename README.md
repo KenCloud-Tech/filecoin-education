@@ -1,26 +1,26 @@
 
-# GuideToFilecoin - Easing the Transition to Filecoin.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/KenCloud-Tech/filecoin-education/blob/main/guidetofilecoin/HTML/landing/images/guidetofilecoin.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KenCloud-Tech/filecoin-education/blob/main/guidetofilecoin/HTML/landing/images/guidetofilecoin.png?raw=true">
+    <img alt="JZFS Logo" src="https://github.com/KenCloud-Tech/filecoin-education/blob/main/guidetofilecoin/HTML/landing/images/guidetofilecoin.png" width="400px">
+  </picture>
+</p>
+<h2 align="center">Easing the Transition to Filecoin.</h2>
+<h4 align="center">Learn, Transition, Onboard.</h4>
+<h4 align="center">An All-In-One Education Website for Filecoin Beginners.</h4>
+
+>  Are you ready to transition to Filecoin?
+
+---
 
 ## Self-Sovereign Identity
-Chapter 1
-SSI 介绍
-https://www.bilibili.com/video/BV1xg411q7RT
-https://guidetofilecoin.xyz/#
 
-Chapter 2
-SSI架构的基本构建块
-https://www.bilibili.com/video/BV1bY411o72h
-https://guidetofilecoin.xyz/#
-
-Chapter 3
-SSI工作原理的情景展示
-https://www.bilibili.com/video/BV1UW4y157Dd
-https://guidetofilecoin.xyz/#
-
-Chapter 4
-SSI的主要特点和优势
-https://www.bilibili.com/video/BV1HG4y1c7BS
-https://guidetofilecoin.xyz/#
+|                                                                                                                                                                                               |                                                                                                                                |                                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| `Chapter 1`   <br>[SSI 介绍](https://www.bilibili.com/video/BV1xg411q7RT) <br>[English(NA)]() | `Chapter 2`  <br>[SSI架构的基本构建块](https://www.bilibili.com/video/BV1bY411o72h) <br>[English(N/A)]() | `Chapter 3`   <br>[SSI工作原理的情景展示](https://www.bilibili.com/video/BV1UW4y157Dd) <br>[English(N/A)]() |
+| `Chapter 4`   <br>[SSI的主要特点和优势](https://www.bilibili.com/video/BV1HG4y1c7BS) <br>[English(NA)]()                                                            |    |  |
 
 
 ## IPFS
